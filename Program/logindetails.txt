@@ -1,0 +1,7 @@
+1,caleb,caleb@gmail.com,1
+2,lol,verifycheck@invalid.,lol
+3,lola,@invalid.,lol
+4,lolab,.@,lol
+5,s,s.@,s
+6,c,c@.,1
+7,,@.,
